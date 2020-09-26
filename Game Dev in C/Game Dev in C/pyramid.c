@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_loop(void)
 {
 	int i, j, k;
 	int floor;

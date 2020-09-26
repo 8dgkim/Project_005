@@ -139,8 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bald2.c" />
     <ClCompile Include="interrogation.c" />
+    <ClCompile Include="m_array.c" />
+    <ClCompile Include="password.c" />
+    <ClCompile Include="pointer.c" />
+    <ClCompile Include="pointer_proj.c" />
     <ClCompile Include="pyramid.c" />
+    <ClCompile Include="up and down.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

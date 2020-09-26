@@ -21,5 +21,23 @@
     <ClCompile Include="pyramid.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="up and down.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="password.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bald2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_proj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="m_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
