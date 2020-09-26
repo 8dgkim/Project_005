@@ -1,8 +1,5 @@
 ﻿  m_array.c
 C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_005\Game Dev in C\Game Dev in C\m_array.c(25,7): warning C4013: 'srand' undefined; assuming extern returning int
 C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_005\Game Dev in C\Game Dev in C\m_array.c(125,17): warning C4013: 'rand' undefined; assuming extern returning int
-  pointer_proj.c
-C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_005\Game Dev in C\Game Dev in C\pointer_proj.c(58,9): warning C4013: 'exit' undefined; assuming extern returning int
-C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_005\Game Dev in C\Game Dev in C\pointer_proj.c(63,21): warning C4013: 'checkFishAlive' undefined; assuming extern returning int
-  Generating Code...
-  Game Dev in C.vcxproj -> C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_005\Game Dev in C\Debug\Game Dev in C.exe
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_005\Game Dev in C\Debug\Game Dev in C.exe : fatal error LNK1120: 1 unresolved externals

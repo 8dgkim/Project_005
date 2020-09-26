@@ -18,7 +18,7 @@ int foundAllAnimals();
 
 
 
-int main(void)
+int main_m_array(void)
 {
 	int failCount = 0;
 
