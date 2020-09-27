@@ -19,7 +19,7 @@ int checkCollection();
 
 
 
-int main(void)
+int main_struct(void)
 {
     int selected, collectAll;
 
